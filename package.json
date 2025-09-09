@@ -1,6 +1,6 @@
 {
     "name": "alacrity-api",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "API client for AlaCrity",
     "types": "dist/index.d.ts",
     "main": "dist/index.js",
